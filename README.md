@@ -1,1 +1,1 @@
-# SVHN-Net2
+# SVHN-Net
